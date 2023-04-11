@@ -4,6 +4,7 @@ This repo contains the code for underground water leak detection in the city of 
 
 To execute the code first you need to create the following data directory structute:
 
+```bash
 |-- rs_leaks
     |-- data
     |   |-- clean
@@ -17,5 +18,6 @@ To execute the code first you need to create the following data directory struct
     |   |-- raw
     |   |-- shp
     |-- src
+```
 
 In order to download and preprocess the patches you first need to run the download_patches notebook and then the preprocess_patches notebook.
