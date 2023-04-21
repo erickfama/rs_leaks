@@ -1,5 +1,8 @@
 ./src/1_satellite_imagery.ipynb
 ./src/2_patches.ipynb
+./src/notes.ipynb
+./src/lst.py
+./src/old_leak_data_cleaning.ipynb
 ./data/images
 ./data/patches_clean
 ./data/patches_raw
