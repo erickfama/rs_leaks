@@ -3,6 +3,7 @@
 ./src/notes.ipynb
 ./src/lst.py
 ./src/old_leak_data_cleaning.ipynb
+./src/cnn_leaks.ipynb
 ./data/images
 ./data/patches_clean
 ./data/patches_raw
